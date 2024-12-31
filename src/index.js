@@ -6,5 +6,5 @@ import App from './App.jsx'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-    <App word="dynamic" favoriteFood="pizza" name="Chris" />
+    <App word="loud" favoriteFood="pizza" name="Chris" />
 );
